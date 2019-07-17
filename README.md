@@ -1,0 +1,2 @@
+# qiita_section_properties
+断面形状分析リポジトリの紹介
